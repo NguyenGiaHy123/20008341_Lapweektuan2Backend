@@ -6,14 +6,18 @@
 # Bài tập sử dụng java bên phía backend còn fontend dùng framework reactjs của javascript để xây dựng giao diện 
 ### Hình ảnh mô hình cơ sở dữ liệu 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/ff0e08d5-fa6a-43f8-8fed-a43a1868f3c6)
-
+### chức năng đặng ký 
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/9b647b7c-9772-43a5-a502-83516e932fac)
 ### 1.chức login sẽ kiểm tra thông tin người dùng có chính xác bên phái fontend hay không nếu đùng mới cho submit đăng nhập 
-
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/6e7ac8d5-91c0-4bd6-9206-aea82221db1c)
+### đang nhâp thanh công sẽ chuyển đế trang chủ
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/2a54a275-16a5-48cd-af6b-2c76b6d68063)
 
 ### login thanh công sẽ vào trang chủ và hiển thị thông tin user đã đăng nhập 
 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/712487fc-3eb9-4a7a-9212-dcd667c13cb9)
+### nhập đúng thông tin sẽ đăng ký thành công 
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/be7f69ec-cddd-48f4-bec4-a5897f05132b)
 
 ### trong thông tin đăng nhập có thể update tên user 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/3f1bcd5f-0abb-4793-81b5-8eef6d4507a9)
@@ -36,15 +40,25 @@
 
 ### danh sách sản phẩm được lưu trong giỏ hàng
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/59832e52-533e-41a9-93d3-0d3bd7063c54)
+### sau khi đặt hàng thành công có thểm xem đơn hàng đã mua có thể hủy đơn hàng 
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/6477fa85-ebc4-468c-9b12-6e4304e7c101)
+
+### có thế sửa thông tin order 
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/76fc4954-0c5f-4eca-8d17-b6b861c2bf8c)
 
 ### chức năng tìm kiếm sản phẩm theo từ khóa
 ### chọn từ khóa adias sẽ trả một danh sách sản phẩm có tên adidas
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/d37bc7d1-23bf-4b80-8fec-f52eeb319ab2)
 
-### sau khi đặt hàng thành công có thểm xem đơn hàng đã mua có thể hủy đơn hàng 
-![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/6477fa85-ebc4-468c-9b12-6e4304e7c101)
 ### vẽ biểu đồ giá bán sản phẩm từng trang 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/680aa524-adae-42df-8647-9934d05dc92f)
+
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/1dcee6ad-3973-4357-9bbf-fea29473cbe9)
+
+### loc sản phẩm sản phẩm theo giá 
+
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/fb3a5e64-a0ce-4675-8242-c6c1b56d2159)
+
 # chức năng danh cho nhân viên 
 
 ###  1 quản lý đơn hàng xem thông tin người dùng mua hàng 
@@ -55,4 +69,7 @@
 
 ### 3 nhân viên có thểm xem thêm xóa sửa thêm sản phẩm
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/dd782b88-788e-4a19-a7b0-7a75e469ce7e)
+
+
+
 
