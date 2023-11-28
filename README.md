@@ -2,22 +2,23 @@
 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/190c51d6-fb79-48dd-97ea-9d9235c137ef)
 
-
 # Bài tập sử dụng java bên phía backend còn fontend dùng framework reactjs của javascript để xây dựng giao diện 
 ### Hình ảnh mô hình cơ sở dữ liệu 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/ff0e08d5-fa6a-43f8-8fed-a43a1868f3c6)
 ### chức năng đặng ký 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/9b647b7c-9772-43a5-a502-83516e932fac)
+
+### nhập đúng thông tin sẽ đăng ký thành công 
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/be7f69ec-cddd-48f4-bec4-a5897f05132b)
+
 ### 1.chức login sẽ kiểm tra thông tin người dùng có chính xác bên phái fontend hay không nếu đùng mới cho submit đăng nhập 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/6e7ac8d5-91c0-4bd6-9206-aea82221db1c)
 ### đang nhâp thanh công sẽ chuyển đế trang chủ
+![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/712487fc-3eb9-4a7a-9212-dcd667c13cb9)
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/2a54a275-16a5-48cd-af6b-2c76b6d68063)
 
 ### login thanh công sẽ vào trang chủ và hiển thị thông tin user đã đăng nhập 
 
-![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/712487fc-3eb9-4a7a-9212-dcd667c13cb9)
-### nhập đúng thông tin sẽ đăng ký thành công 
-![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/be7f69ec-cddd-48f4-bec4-a5897f05132b)
 
 ### trong thông tin đăng nhập có thể update tên user 
 ![image](https://github.com/NguyenGiaHy123/20008341_Lapweektuan2Backend/assets/89922176/3f1bcd5f-0abb-4793-81b5-8eef6d4507a9)
